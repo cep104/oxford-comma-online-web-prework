@@ -5,3 +5,4 @@ if array.length == 2
 else
   array.join(",")
 end
+end
